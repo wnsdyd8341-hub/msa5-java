@@ -1,6 +1,6 @@
 package org.example.e06oop.inheritance;
 
- class FlyingFish extends Animal{
+ public class FlyingFish extends Animal{
 
     public FlyingFish(String name, String residence){
         super(name,residence);

@@ -5,6 +5,11 @@ public class MainInterface {
         FlyingFish flyingFish = new FlyingFish();
 
         Whale whale = new Whale();
-        System.out.println(whale.residence());
+        // System.out.println(whale.residence());
+
+
+
+
+
     }
 }
